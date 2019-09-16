@@ -16,7 +16,10 @@
                   UI Controller, Controller, Budget Controller 
 
 3) Forkify: Using ES6, NPM, Babel and Webpack
-
+    
+  - Run "npm install" on the commandline to install all Mandatory node modules
+  - Run "npm run start" to open a localhost and thus interact with the Project
+   
    - Uses Food2Fork API to generate food recipes to make a Shopping/Like List of favorite recipes. 
 
    - Search in the Text Area to generate choices on the left column (scroll with pages in the bottom).
