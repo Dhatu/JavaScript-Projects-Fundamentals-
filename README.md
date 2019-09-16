@@ -20,15 +20,15 @@
   - Run "npm install" on the commandline to install all Mandatory node modules
   - Run "npm run start" to open a localhost and thus interact with the Project
    
-   - Uses Food2Fork API to generate food recipes to make a Shopping/Like List of favorite recipes. 
+    - Uses Food2Fork API to generate food recipes to make a Shopping/Like List of favorite recipes. 
 
-   - Search in the Text Area to generate choices on the left column (scroll with pages in the bottom).
+    - Search in the Text Area to generate choices on the left column (scroll with pages in the bottom).
         Optional: Change Servings to change # of needed recipe ingredients)
 
-   - "Add to Shopping List" to generate numbers record on the right column.
+    - "Add to Shopping List" to generate numbers record on the right column.
     My Shopping List has a delete option as a hover over all the ingredients if you have some at home.
 
-   - Click on "Heart icon" to add to the top right "Heart Tab" 
+    - Click on "Heart icon" to add to the top right "Heart Tab" 
       Hover over to show all liked Listings
 
 
